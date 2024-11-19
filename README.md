@@ -19,11 +19,9 @@ Sou um estudante de programação que é apaixonado por criar soluções inovado
 - HTML
 - CSS
 
-## 🔥 **Estatísticas do GitHub**
-
+## 🏆 Conquistas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?MatheusMarostica&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MatheusMarostica&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=true&row=1&column=6" alt="Trophies">
 </p>
 
 ## 📈 **Contribuições Recentes**
