@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Matheus Maróstica!
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Olá,+meu nome é Matheus Maróstica+full-stack!;Apaixonado+por+tecnologia+e+inovação!" />
-
 Sou um estudante de programação que é apaixonado por criar soluções inovadoras e compartilhar conhecimento. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/matheus-maróstica)
