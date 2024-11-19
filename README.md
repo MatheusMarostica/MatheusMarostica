@@ -25,7 +25,7 @@ Sou um estudante de programação que é apaixonado por criar soluções inovado
 
 ## 📈 **Contribuições Recentes**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=seu-usuario&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusMarostica&theme=dark)
 
 ## 📫 **Como me encontrar**
 
