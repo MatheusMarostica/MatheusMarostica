@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Maróstica!
 
-<img src="https://via.placeholder.com/1000x300.png?text=Bem-vindo+ao+meu+perfil!" alt="Banner Personalizado">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner Animado">
 
 Sou um estudante de programação que é apaixonado por criar soluções inovadoras e compartilhar conhecimento. 🚀
 
