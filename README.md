@@ -1,6 +1,12 @@
 # 👋 Olá, eu sou o Matheus Maróstica!
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner Animado">
+|-------------------------------------------|
+|                                           |
+|        🚀 Olá, eu sou [Seu Nome]          |
+|       Desenvolvedor Full-Stack 💻        |
+|                                           |
+|-------------------------------------------|
+
 
 Sou um estudante de programação que é apaixonado por criar soluções inovadoras e compartilhar conhecimento. 🚀
 
