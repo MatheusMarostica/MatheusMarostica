@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou o Matheus Maróstica!
 
+<img src="https://via.placeholder.com/1000x300.png?text=Bem-vindo+ao+meu+perfil!" alt="Banner Personalizado">
+
 Sou um estudante de programação que é apaixonado por criar soluções inovadoras e compartilhar conhecimento. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/matheus-maróstica)
