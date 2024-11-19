@@ -19,10 +19,10 @@ Sou um estudante de programação que é apaixonado por criar soluções inovado
 - HTML
 - CSS
 
-## 🏆 Conquistas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&no-frame=true&row=1&column=6" alt="Trophies">
-</p>
+## 🚀 Projetos Destacados
+- [**Projeto 1**](https://github.com/MatheusMarostica/codigofinal.git): Esse foi o projeto que eu fiz e apresentei na conclusão do meu curso técnico integrado ao ensino médio.
+- [**Projeto 2**](https://github.com/seu-usuario/projeto2): Algo inovador que você criou e merece destaque.
+- [**Projeto 3**](https://github.com/seu-usuario/projeto3): Adicione links e detalhes sobre seus projetos principais.
 
 ## 📈 **Contribuições Recentes**
 
