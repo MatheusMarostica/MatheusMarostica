@@ -3,7 +3,7 @@
 Sou um estudante de programação que é apaixonado por criar soluções inovadoras e compartilhar conhecimento. 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/matheus-maróstica)
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/MatheusMarostica)
+[![GitHub](https://img.shields.io/github/followers/MatheusMarostica?label=Follow&style=social)](https://github.com/MatheusMarostica)
 
 ## 💻 **Tecnologias e Ferramentas**
 
